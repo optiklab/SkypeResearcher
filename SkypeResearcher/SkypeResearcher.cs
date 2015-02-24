@@ -85,14 +85,14 @@ namespace SkypeResearcher
                 string main = Application.UserAppDataPath + @"\main.db";
                 string bistats = Application.UserAppDataPath + @"\bistats.db";
                 string dc = Application.UserAppDataPath + @"\dc.db";
-                string eas = Application.UserAppDataPath + @"\eas.db";
+                string eas = Application.UserAppDataPath + @"\eascache.db";
                 string keyval = Application.UserAppDataPath + @"\keyval.db";
                 string msn = Application.UserAppDataPath + @"\msn.db";
 
                 File.Copy(database + @"\main.db", main, true);
                 File.Copy(database + @"\bistats.db", bistats, true);
                 File.Copy(database + @"\dc.db", dc, true);
-                File.Copy(database + @"\eas.db", eas, true);
+                File.Copy(database + @"\eascache.db", eas, true);
                 File.Copy(database + @"\keyval.db", keyval, true);
                 File.Copy(database + @"\msn.db", msn, true);
 
