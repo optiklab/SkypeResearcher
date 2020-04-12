@@ -1,7 +1,7 @@
 SkypeResearcher
 ===============
 
-Research internal data structure of the Skype application with SQLite library on C#.
+It's easy to look inside skype database and read all the chats and contacts when you have access to the PC. I've made app to make this happen easily. It allows to research internal data structure of the Skype application with SQLite library on C#.
 
 I found that  Skype uses simple *.db files for data storage! For me it became revelation because many years ago I've read about pretty good security level of Skype safety: it used HTTPS, tricky ip-addresses and a code is strongly obfuscated inside.
 
