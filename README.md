@@ -13,4 +13,4 @@ In fact, in the Skype folder separate folders for each account therefore accordi
 
 Simply create connection to the DB file of the biggest size (after all it probably also stores most of all information) and you will find many interesting things. Try yourself with my code on github.
 
-![1](https://optiklab.github.io/img/skype2.jpg)
+![1](https://optiklab.github.io/img/skype3.jpg)
