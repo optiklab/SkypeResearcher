@@ -12,3 +12,5 @@ However, I successfully connected to Skype database with SQLite library and get 
 In fact, in the Skype folder separate folders for each account therefore according to them it is quite possible to learn the list of the accounts ever started on this computer are created.
 
 Simply create connection to the DB file of the biggest size (after all it probably also stores most of all information) and you will find many interesting things. Try yourself with my code on github.
+
+![1](https://optiklab.github.io/img/skype2.jpg)
